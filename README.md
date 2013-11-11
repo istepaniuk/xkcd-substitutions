@@ -23,7 +23,11 @@ Using just vanilla JavaScript, it will make your news reading a lot more fun!
  *  'homeland security' -> 'homestar runner'
  *  'could not be reached for comment' -> 'is guilty and everyone knows it'
 
-Just add to your GreaseMonkey user scripts, stir, shake, `roflcopters`.
+Install
+=======
+Just add `xkcd-substitutions.user.js` to your GreaseMonkey user scripts, stir, shake, `roflcopters`.
 
-The script comes with `http://bbc.co.uk` as included site, adjust to your prefs!
+...Or just click [HERE](https://github.com/istepaniuk/xkcd-substitutions/raw/master/xkcd-substitutions.user.js) to install it (you must have GreaseMonkey for the link to do the trick)
 
+
+The script comes with some included news site, adjust to your prefs!
