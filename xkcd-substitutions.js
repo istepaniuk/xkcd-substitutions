@@ -3,6 +3,12 @@
 // @namespace   istepaniuk.com
 // @description SUBSTITUTIONS That make reading the news more fun. (http://xkcd.com/1288/)
 // @include     http://www.bbc.co.uk/*
+// @include     http://www.bbc.com/*
+// @include     http://www.cbc.ca/*
+// @include     http://www.theguardian.com/*
+// @include     http://www.telegraph.co.uk/*
+// @include     http://www.theonion.com/*
+// @include     http://www.foxnews.com/*
 // @version     1
 // @grant       none
 // ==/UserScript==
