@@ -10,6 +10,7 @@
 // @include     http://www.theonion.com/*
 // @include     http://www.foxnews.com/*
 // @include		https://www.reddit.com/*
+// @include		https://www.washingtonpost.com/*
 // @version     1
 // @grant       none
 // ==/UserScript==
@@ -74,7 +75,13 @@
 	'disrupt' : 'destroy', 
 	'meeting' : 'channing tatum and his friends',
 	'you won\'t believe' : 'i\'m really sad about',
-	'killed' : 'smashed to bits'
+	'killed' : 'smashed to bits',
+	'terrorist' : 'clown',
+	'anti-terror' : 'freedom',
+	'terror' : 'freedom',
+	'refugee' : 'rapist pig',
+	'migrant' : 'slave',
+	'verify' : 'lie about'
   }
   
   for (var key in substitutions) {
