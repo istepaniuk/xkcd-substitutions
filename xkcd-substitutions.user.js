@@ -72,7 +72,8 @@
 	'latest' : 'final' ,
 	'disrupt' : 'destroy', 
 	'meeting' : 'channing tatum and his friends',
-	'you won\'t believe' : 'i\'m really sad about'
+	'you won\'t believe' : 'i\'m really sad about',
+	'killed' : 'smashed to bits'
   }
   
   for (var key in substitutions) {
