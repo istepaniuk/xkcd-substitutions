@@ -78,10 +78,12 @@
 	'killed' : 'smashed to bits',
 	'terrorist' : 'clown',
 	'anti-terror' : 'freedom',
+	'terrorism' : 'freedom',
 	'terror' : 'freedom',
 	'refugee' : 'rapist pig',
 	'migrant' : 'slave',
-	'verify' : 'lie about'
+	'verify' : 'lie about',
+	'guerrilla' : 'gorilla',
   }
   
   for (var key in substitutions) {
