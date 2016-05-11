@@ -9,6 +9,7 @@
 // @include     http://www.telegraph.co.uk/*
 // @include     http://www.theonion.com/*
 // @include     http://www.foxnews.com/*
+// @include		https://www.reddit.com/*
 // @version     1
 // @grant       none
 // ==/UserScript==
