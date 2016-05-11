@@ -3,8 +3,12 @@ xkcd-substitutions
 
 A GreaseMonkey JavaScript implementation of xkcd's "Substitutions that make reading the news more fun" 
  * http://xkcd.com/1288/
+ * http://xkcd.com/1625/
+ * http://xkcd.com/1679/
  
  ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions.png)
+ ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions_2.png)
+ ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions_3.png)
 
 Using just vanilla JavaScript, it will make your news reading a lot more fun!
 
@@ -22,6 +26,7 @@ Using just vanilla JavaScript, it will make your news reading a lot more fun!
  *  'congressional leaders' -> 'river spirits'
  *  'homeland security' -> 'homestar runner'
  *  'could not be reached for comment' -> 'is guilty and everyone knows it'
+ *  See full list on: http://pastebin.com/z6zvSryw (source)
 
 Install
 =======
