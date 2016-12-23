@@ -5,7 +5,7 @@ A GreaseMonkey JavaScript implementation of xkcd's "Substitutions that make read
  * http://xkcd.com/1288/
  * http://xkcd.com/1625/
  * http://xkcd.com/1679/
- 
+
  ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions.png)
  ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions_2.png)
  ![xkcd SUBSTITUTIONS](http://imgs.xkcd.com/comics/substitutions_3.png)
